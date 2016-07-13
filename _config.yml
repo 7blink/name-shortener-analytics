@@ -25,6 +25,6 @@ analytics: "
   //ga('send', 'pageview');
 "
 
-events: "ga('send', 'event', 'URLshortener', 'redirect', page);"
+events: "ga('send', 'event', 'URLshortener', 'redirect', 'page');"
 
 
