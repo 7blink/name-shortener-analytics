@@ -25,3 +25,5 @@ analytics: "<script>
   ga('send', 'pageview', location.pathname+location.search+location.hash);
 
 </script>"
+
+event: "ga('send', 'event', page );"
